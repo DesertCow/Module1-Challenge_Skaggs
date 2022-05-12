@@ -6,7 +6,7 @@
 <h5 align="center">
 
 💼 Module 1 Challenge 💼<br>
-By Clayton Skaggs 
+By Clayton Skaggs<br>
 (WW19.4) / May 12th 2022
 
 Version 0.1</h5>
@@ -25,7 +25,7 @@ SO THAT our own site is optimized for search engines</p>
 
 ---
 #### Acceptance Criteria
-
+✔️
 
 <p>❌ GIVEN a webpage meets accessibility standards<br>
 ❌ WHEN I view the source code<br>
