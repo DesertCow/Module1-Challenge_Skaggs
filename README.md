@@ -1,7 +1,16 @@
 
 ---
 
-<div align="center"> <h5 align="center">💼 Module 1 Challenge 💼 </h5> </div>
+<div align="center"> 
+
+<h5 align="center">
+
+💼 Module 1 Challenge 💼<br>
+By Clayton Skaggs 
+(WW19.4) / May 12th 2022
+
+Version 0.1</h5>
+</div>
 
 ---
 #### User Story:
@@ -39,6 +48,6 @@ SO THAT our own site is optimized for search engines</p>
 
 ---
 
-![alt text](./Target_Layout.png)
+![alt text](./dev-notes/Target_Layout.png)
 
 ---
