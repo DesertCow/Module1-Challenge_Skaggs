@@ -62,6 +62,7 @@ Version 0.1</h5>
 ---
 🚀 [GitHub.com/DesertCow/Module1-Challenge_Skaggs](https://github.com/DesertCow/Module1-Challenge_Skaggs) 🚀
 <br>
+<br>
 🛰️ [desertcow.github.io/Module1-Challenge_Skaggs/](https://desertcow.github.io/Module1-Challenge_Skaggs/) 🛰️
 
 ---
