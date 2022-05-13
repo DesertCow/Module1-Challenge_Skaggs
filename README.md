@@ -9,7 +9,7 @@
 By Clayton Skaggs<br>
 (WW19.4) / May 12th 2022
 
-Version 0.1</h5>
+Version 0.2</h5>
 </div>
 
 ---
@@ -60,10 +60,13 @@ Version 0.1</h5>
 <h3 align="center">Deployment Information</h3>
 
 ---
-🚀 [GitHub.com/DesertCow/Module1-Challenge_Skaggs](https://github.com/DesertCow/Module1-Challenge_Skaggs) 🚀
+
+<div align="center">
+🚀 <a href="https://github.com/DesertCow/Module1-Challenge_Skaggs">github.com/DesertCow/Module1-Challenge_Skaggs</a> 🚀
 <br>
 <br>
-🛰️ [desertcow.github.io/Module1-Challenge_Skaggs/](https://desertcow.github.io/Module1-Challenge_Skaggs/) 🛰️
+🛰️ <a href="https://desertcow.github.io/Module1-Challenge_Skaggs">desertcow.github.io/Module1-Challenge_Skaggs/</a> 🛰️
+</div>
 
 ---
 
